@@ -2,12 +2,15 @@ import React from 'react';
 
 import whatsappIcon from '../../assets/images/icons/whatsapp.svg';
 
+import './style.css'
+
+
 
 function TeacherItem() {
  return(
     <article className="teacher-item">
                 <header>
-                    <img src="https://github.com/account" alt="Andre"/>
+                    <img src="https://avatars1.githubusercontent.com/u/40605515?s=460&u=c8dfca58712cb41802c810bcde3bc66fa5133bef&v=4" alt="Andre"/>
                 <div>
                     <strong>
                         Andre
